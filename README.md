@@ -1,5 +1,5 @@
 # Sensifai Video Tagging NPU SDK
-This repository contains an Android SDK for [Sensifai](https://sensifai.com){:target="_blank"} video recognition and tagging using Huawei Kirin980 technology.
+This repository contains an Android SDK for [Sensifai](https://sensifai.com){:target="_blank" rel="noopener"}. video recognition and tagging using Huawei Kirin980 technology.
 This SDK brings ability to any application which needs to understand and recognize the concepts within a video and do all the process on the device. 
 
 This SDK can be used on the Huawei devices which utilize Kirin980 chip with Neural Processing Unit (NPU), such as P30 and Mate20 series. For the next versions, we are going to release SDKs for Qualcomm chips as well.
