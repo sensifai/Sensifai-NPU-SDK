@@ -9,5 +9,5 @@ This SDK is meant to show the ability and the power of the technology of video t
 You can also check our live video tagging android [app](https://play.google.com/store/apps/details?id=com.sensifai.hiaidemo&hl=en) working on same devices which tags all of the concepts from the camera video footage.
 
 # Video Tagging Engine Training
-Our video tagging engine is trained with advanced deep neural network architecture using a private sensifai video/image dataset. For people who do not have access to similar dataset, there are some opportunities to use open access dataset such as [OpenImages Dataset](https://storage.googleapis.com/openimages/web/index.html).
+Our video tagging engine is trained with advanced deep neural network architectures using sensifai private video/image dataset. For people who do not have access to similar dataset, there are some opportunities to use some open access dataset such as [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html).
 
