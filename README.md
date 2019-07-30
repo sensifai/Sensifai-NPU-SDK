@@ -6,5 +6,5 @@ This SDK can be used on the Huawei devices which utilize Kirin980 chip with Neur
 
 This SDK is meant to show the ability and the power of the technology of video tagging as a good demo and covering a limited number of tags (almost 800). If you are interested to have a specialized SDK with different set of concepts for recognition please contact us (support@sensifai.com).
 
-You can also check our live video tagging android (app)[https://play.google.com/store/apps/details?id=com.sensifai.hiaidemo&hl=en] working on same devices which tags all of the concepts from the camera video footage.
+You can also check our live video tagging android [app](https://play.google.com/store/apps/details?id=com.sensifai.hiaidemo&hl=en) working on same devices which tags all of the concepts from the camera video footage.
 
