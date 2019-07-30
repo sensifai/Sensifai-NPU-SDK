@@ -11,3 +11,5 @@ You can also check our live video tagging android [app](https://play.google.com/
 # Video Tagging Engine Training
 Our video tagging engine is trained with advanced deep neural network architectures using sensifai private video/image dataset. For people who do not have access to similar dataset, there are some opportunities to use some open access dataset such as [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html).
 
+# How To Use
+Check the [SDK guide](https://github.com/sensifai/Sensifai_NPU_SDK/blob/master/Sensifai%20HiAI%20Video%20Tagging%20Library%20User%20Manual.pdf).
