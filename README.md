@@ -11,8 +11,8 @@ You can also check our live video tagging android [app](https://play.google.com/
 # Video Tagging Engine Training
 Our video tagging engine is trained with advanced deep neural network architectures using sensifai private video/image dataset. For people who do not have access to similar dataset, there are some opportunities to use some open access dataset such as [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html).
 
-# Deep CNN Model and Code
-[Here](https://github.com/sensifai/Sensifai-NPU-SDK/tree/master/NPU-Pytorch-model), you can find the Pytorch model and code for the ConvNet which is used in the SDK.
+# Deep ConvNet Model and Code
+[Here](https://github.com/sensifai/Sensifai-NPU-SDK/tree/master/NPU-Pytorch-model), you can find the [Pytorch](https://pytorch.org/) model and code for the ConvNet which is used in the SDK. For converting the models to a working model on Huawei Kirin NPUs, you should follow the [Huawei NPU DDK Insturctions](https://developer.huawei.com/consumer/en/devservice/doc/2020105).
 
 # How To Use
 Check the [SDK guide](https://github.com/sensifai/Sensifai_NPU_SDK/blob/master/Sensifai%20HiAI%20Video%20Tagging%20Library%20User%20Manual.pdf).
